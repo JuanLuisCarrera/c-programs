@@ -6,9 +6,10 @@ int main (){
 
     FILE *pf;
 
-    pf = fopen("linux.txt","w");
+    pf = fopen("letracanción.txt","w");
 
-    fprintf(pf, "vamossss \n");
+    fprintf(pf, "eeeeeeeey \n");
+
     fclose(pf);
 
     return EXIT_SUCCESS;
